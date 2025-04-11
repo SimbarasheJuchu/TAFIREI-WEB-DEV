@@ -1,0 +1,27 @@
+*{
+    background-color: antiquewhite;
+    width: 400px;
+    
+}
+h1{
+    font-style: normal;
+    color: brown;
+    font-weight: 300;
+}
+.post{
+    height: 400px;
+    width: 400px;
+    border:10px solid brown;
+    margin: 5px;
+    padding: 10px;
+    background-color: black;
+}
+div>img{
+    size: 10px;
+    height: 400px;
+
+
+}
+ol>li{
+    font-weight: 200px;
+}
